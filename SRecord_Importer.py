@@ -6,7 +6,7 @@ S records, with the length of the list the same length as the number of lines in
 
 
 '''
-#test for branch1
+#test for branch2
 
 import bincopy
 
